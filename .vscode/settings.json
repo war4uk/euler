@@ -1,0 +1,9 @@
+// Place your settings in this file to overwrite default and user settings.
+{
+    "editor.tabSize": 2,
+    "jshint.enable": false,
+    "tslint.enable": false,
+    "files.trimTrailingWhitespace": true,
+    "editor.formatOnType": true,
+    "javascript.validate.enable": false
+}
